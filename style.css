@@ -548,3 +548,14 @@ responsive design
 .bosluk {
   padding-bottom: 1.2rem;
 }
+.development {
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 15px auto;
+  gap: 2rem;
+}
+.videos {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
