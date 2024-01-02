@@ -559,3 +559,10 @@ responsive design
   flex-direction: column;
   gap: 2rem;
 }
+.cover {
+  margin: 4rem;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 30px;
+  text-indent: 50px;
+}
